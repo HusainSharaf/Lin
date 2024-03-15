@@ -10,6 +10,7 @@ import nltk
 import numpy as np
 import pandas as pd
 import stanfordnlp
+# import stanza
 from nltk.corpus import verbnet
 from nltk.stem.snowball import SnowballStemmer
 from sklearn.metrics import (accuracy_score, f1_score,
